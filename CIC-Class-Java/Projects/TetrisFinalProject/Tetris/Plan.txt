@@ -1,0 +1,13 @@
+10x20-24 grid that holds values for every block 
+	graphics(color?)
+	logic(isFilled)
+game object - tetronimo class
+	score
+	grid
+
+tetronimo object
+	array(locations of four squares)
+	boolean isMoving - ideally the tetronimo is no longer accessible when false 
+	update(clear prev squares) returns canMove
+
+

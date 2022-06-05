@@ -1,0 +1,3 @@
+This is the archive for the work that I did in my Advanced Computer Science class in 10th grade. All projects are written in java and are mostly from the Java Methods book by Maria Litvin.
+
+No files in the textbook folder were written by me. Not all files in the Projects folder were written by me, Jishnu Dey.  

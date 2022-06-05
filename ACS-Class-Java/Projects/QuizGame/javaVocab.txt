@@ -1,0 +1,6 @@
+term - definition
+cast - to change data from one type to another
+variable - a name that refers to a memory location
+primitive type - a basic data type including integers, float, boolean, character, etc.
+object - data with a class definition
+class - defines a type of object

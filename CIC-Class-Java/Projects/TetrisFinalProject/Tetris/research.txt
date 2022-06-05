@@ -1,0 +1,16 @@
+Tetris has:
+	seven tetronimoes - T, L, S, Z, I, J, O
+	Simple rules:
+		pieces can rotate in either direction (the up arrow key can choose a direction)
+		there is a grid where all pieces are at all times
+		pieces fall at a constant rate and lock when they hit another piece(filled square) 
+		when a row is complete it disappears
+			this means tetronimoes might have parts of them dissappear
+		when a column is complete it's game over
+		stop a piece from rotating where it can't
+	Complex rules:
+		a piece may be able to rotate into place
+		scoring multiple lines in a row gives you more points
+		the more you play the faster the game goes
+		n-bag - create a 'bag' of n pieces to randomize the order of pieces without repeating things multiple times
+		points: one point for every time a piece goes down, many points for line clears and tspins

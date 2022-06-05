@@ -1,0 +1,9 @@
+constructor method
+	alphebatized list of animals -> input array/arrayList
+	add random things to the linkedList until there's nothing left to add
+tag method
+	remove the tagged animal
+
+get file method -> can be used to input the arrayList constructor in main
+
+questions: when is remove triggered? - the person will input the animal that caught it's prey, and the prey will be gone. 
