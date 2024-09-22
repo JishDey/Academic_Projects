@@ -1,3 +1,3 @@
 # Academic_Projects
 
-A repo of various projects, from classes in school as well as those completed to teach myself CS/programming topics.
+A repo of high school projects completed to learn CS/programming topics.
